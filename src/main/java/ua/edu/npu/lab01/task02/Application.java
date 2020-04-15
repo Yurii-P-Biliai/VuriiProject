@@ -1,4 +1,4 @@
-package ua.edu.npu.lab01.task01;
+package ua.edu.npu.lab01.task02;
 
 public class Application {
 
